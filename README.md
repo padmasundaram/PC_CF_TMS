@@ -7,6 +7,6 @@ Yoshio Okada, Chunling Dong, Sergey Makaroff, Padmavathi Sundaram
 
 https://www.biorxiv.org/content/10.64898/2026.05.12.724125v1
 
-<img width="400" alt="coverfig" src="https://github.com/user-attachments/assets/d713cafa-6b94-453a-bea7-3a91436194dd" />
-<img width="1389" height="694" alt="erp" src="https://github.com/user-attachments/assets/d9c6d295-9d5d-45a7-96b1-6eaf34ea2105" />
+<img width="500" alt="coverfig" src="https://github.com/user-attachments/assets/d713cafa-6b94-453a-bea7-3a91436194dd" />
+<img width="1200" alt="erp" src="https://github.com/user-attachments/assets/d9c6d295-9d5d-45a7-96b1-6eaf34ea2105" />
 
